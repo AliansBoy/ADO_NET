@@ -1,0 +1,9 @@
+/*.sln
+bin
+obj
+Properties
+/ADO_HW/ADO_HW.csproj
+/ADO_HW/App.config
+/BusibessLogicLayer/BusibessLogicLayer.csproj
+/DataAccessLayer/DataAccessLayer.csproj
+/PresentationLayer/PresentationLayer.csproj
